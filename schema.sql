@@ -13,6 +13,22 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Phone Case", "Mobile", 19, 50);
+VALUES ("iPhone X", "Mobile", 1000, 500);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Cable", "Mobile", 3, 50);
+VALUES ("Charging Cable", "Electroincs", 3, 50);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("iPhone X Case", "Mobile", 50, 100);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Screen Protector", "Mobile", 10, 70);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Phone Holder", "Automotive", 45, 40);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Bluetooth Headset", "Media", 55, 150);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Calculator", "Office", 9, 80);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Pens", "Office", 10, 1000);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Leather Chair", "Furniture", 235, 20);
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("Wall USB", "Electronics", 5, 0);
