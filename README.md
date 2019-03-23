@@ -8,4 +8,4 @@ There are three ways to points of access of the data, listed below.
 * Manager(Completed).
 * Supervisor(Not Completed).
 
-[In action video](https://github.com/alexmukha/Bamazon/video.mp4)
+[In action video](https://youtu.be/PJ78uSkMVsM)
